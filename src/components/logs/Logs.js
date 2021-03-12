@@ -8,11 +8,11 @@ const Logs = () => {
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    getLoading();
+    getLogs();
     //   eslint-disable-next-line
   }, []);
 
-  const getLoading = async () => {
+  const getLogs = async () => {
     setLoading(true);
     const res = await fetch('/logs');
     const data = await res.json();
