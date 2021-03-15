@@ -2,24 +2,24 @@
   "logs": [
     {
       "id": 1,
-      "message": "Change hard drive on workstation 005",
+      "message": "Changed network card Server008",
       "attention": false,
-      "date": "03-02-2021",
-      "tech": "Sam Smith"
+      "tech": "Sam Smith",
+      "date": "2021-03-15T04:33:53.356Z"
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Hard drive faield workstation 002",
       "attention": true,
-      "date": "03-02-2021",
-      "tech": "John Doe"
+      "tech": "Sara Wilson",
+      "date": "2021-03-15T04:06:30.691Z",
+      "id": 2
     },
     {
       "id": 3,
-      "message": "Change memory on workstation 050",
+      "message": "1122 Wireless fixed",
       "attention": false,
-      "date": "03-02-2021",
-      "tech": "Sara wilson"
+      "tech": "Sam Smith",
+      "date": "2021-03-15T04:35:15.267Z"
     }
   ],
   "techs": [
